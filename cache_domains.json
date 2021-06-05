@@ -98,6 +98,10 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
+			"name": "ubuntu",
+			"description": "CDN for Ubuntu",
+			"domain_files": ["ubuntu.txt"]
+		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
